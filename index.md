@@ -1,4 +1,5 @@
 ---
-layout: default
+layout: post
+title: someone like me
 ---
 ## test
